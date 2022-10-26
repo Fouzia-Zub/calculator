@@ -30,6 +30,8 @@
 }
 button{
     width: 35px;
+    background:fixed;
+    background-color: rgb(195, 207, 206);   
 }
 .screen{
     font-size: 45px;
